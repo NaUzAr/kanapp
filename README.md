@@ -26,7 +26,7 @@ sudo apt install git -y
 
 ```bash
 git clone https://github.com/NaUzAr/kanapp
-cd app
+cd kanapp
 ```
 
 ### 3. **Update and Upgrade the System**
