@@ -25,7 +25,7 @@ sudo apt install git -y
 ### 2. **Clone the Repository**
 
 ```bash
-git clone https://github.com/NaUzAr/app
+git clone https://github.com/NaUzAr/kanapp
 cd app
 ```
 
